@@ -1,6 +1,3 @@
-Since you've **completed your MCA**, here's the updated and more professional version for your GitHub profile:
-
- GitHub Profile About Me
 
 ## 👋 Hi, I'm Karthik!
 
